@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.exe
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.deps.json
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.runtimeconfig.json
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.dll
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\bin\Debug\netcoreapp3.1\FridayWork2.pdb
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.dll
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.pdb
+C:\Users\opilane\source\repos\FridayWork2\FridayWork2\obj\Debug\netcoreapp3.1\FridayWork2.genruntimeconfig.cache
